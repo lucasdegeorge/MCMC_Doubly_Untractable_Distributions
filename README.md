@@ -18,11 +18,11 @@ where $\mathcal{Z}(\beta)$ and $p(\textbf{y})$ are intractable.
 
 We can't use the Metropolis Hasting algorithm as $\mathcal{Z}(\beta)$ is untractable. So, we use and implement the Exchange algorithm. 
 
-* Results: (more details on the project render presentation)
+* Results available on the pdf presentation)
 
-We run the algorithm with $T = 10^4$, $N_{gs} = 10^3$ and $\sigma = 0.1$. 
+<!-- We run the algorithm with $T = 10^4$, $N_{gs} = 10^3$ and $\sigma = 0.1$. 
 
 <div align="center">
 <kbd><img src="https://github.com/lucasdegeorge/lucasdegeorge/blob/main/long%20run.png" width="450" height="350" /></kbd>
 </div>
-The algorithm seems to converge towards 0.2 (the value used by the Gibbs sampler. 
+The algorithm seems to converge towards 0.2 (the value used by the Gibbs sampler. --> 
